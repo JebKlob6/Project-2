@@ -1,0 +1,33 @@
+.hero {
+  background-image: url(../img/Car1.jpeg);
+  background-repeat: no-repeat;
+  background-position-y: 40%;
+  background-size: cover;
+  height: 400px;
+}
+.hero2 {
+  background-image: url(../img/Heritage.jpeg);
+  background-repeat: no-repeat;
+  background-position-y: 40%;
+  background-size: cover;
+  height: 400px;
+}
+
+.carcolor {
+  color: #ff2800;
+  opacity: 80%;
+}
+
+.w-15 {
+  width: 15%;
+}
+
+.img-size {
+  width: 350px;
+  height: 250px;
+  background-size: cover;
+}
+
+.bg-offwhite {
+  background-color: #f8f8f8;
+}
