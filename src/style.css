@@ -12,6 +12,13 @@
   background-size: cover;
   height: 400px;
 }
+.hero3 {
+  background-image: url(../img/italy.jpeg);
+  background-repeat: no-repeat;
+  background-position-y: 40%;
+  background-size: cover;
+  height: 400px;
+}
 
 .carcolor {
   color: #ff2800;
